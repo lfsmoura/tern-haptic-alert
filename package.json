@@ -1,0 +1,11 @@
+{
+  "name": "tern-haptic-alert",
+  "private": true,
+  "type": "module",
+  "description": "MX Master 4 haptics when Tern agents finish or need you; port of lfsmoura/herdr-haptic-alert",
+  "license": "MIT",
+  "author": "Leonardo Moura",
+  "repository": { "type": "git", "url": "git+https://github.com/lfsmoura/tern-haptic-alert.git" },
+  "engines": { "node": ">=22" },
+  "dependencies": { "node-hid": "3.3.0" }
+}

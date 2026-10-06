@@ -1,0 +1,7 @@
+schema = 1
+id = "haptic-alert"
+name = "Haptic Alert"
+version = "1.0.0"
+description = "MX Master 4 haptic pulse when an agent finishes or needs you (port of herdr-haptic-alert)."
+icon = "bell"
+window = "window.luau"
