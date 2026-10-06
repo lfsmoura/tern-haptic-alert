@@ -1,5 +1,7 @@
 # tern-haptic-alert
 
+![tern-haptic-alert: a Tern agent alert felt through a Logitech MX Master 4](assets/ternhaptic.png)
+
 Feel when your Tern agent needs you: a haptic pulse on a
 Logitech MX Master 4 when an agent finishes or gets blocked. A Tern port of
 [herdr-haptic-alert](https://github.com/lfsmoura/herdr-haptic-alert).
